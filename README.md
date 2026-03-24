@@ -24,9 +24,9 @@
 - **Déploiement** : 
 
 ### 🎨 Frontend
-- **Framework** : 
-- **Styling** : 
-- **Déploiement** : 
+- **Framework** : Next.js 15 (React 19)
+- **Styling** : Tailwind CSS
+- **Déploiement** : Vercel (recommandé)
 
 ---
 
@@ -42,7 +42,7 @@
 
 ### Frontend
 ```bash
-cd frontend/my-app
+cd frontend/examml
 npm install
 npm run dev
 ```
