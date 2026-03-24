@@ -122,7 +122,7 @@ export default function EditorPage({ params }: { params: Promise<{ id: string }>
         </div>
         
         {/* Sidebar Space */}
-        <AISidebar isOpen={isSidebarOpen} onClose={() => setIsSidebarOpen(false)} />
+        <AISidebar isOpen={isSidebarOpen} onClose={() => setIsSidebarOpen(false)} editor={editor} />
       </div>
     </div>
   );
