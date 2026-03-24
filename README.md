@@ -49,11 +49,6 @@ npm install
 npm run dev
 ```
 
-### Backend (Développement)<h1 align="center">🎓 LevelMind</h1>
-
-<p align="center">
-  <strong>Une plateforme d'e-learning innovante pour les écoles et universités</strong>
-</p>
 ```bash
 cd backend
 # Créer un venv
